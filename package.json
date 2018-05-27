@@ -1,6 +1,6 @@
 {
-  "name": "deep-map",
-  "version": "1.5.0",
+  "name": "@gefenonline/deep-map",
+  "version": "1.5.1",
   "description": "Transforms nested values of complex objects",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
